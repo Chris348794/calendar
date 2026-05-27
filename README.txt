@@ -4,6 +4,12 @@ removing events that are too far in the past that don't repeat, setting events t
 This is my first time making something like this so it is a little unorganized and asanine in places but I wanted to upload proof that I made it.
 
 
+This is a personal php project I made in my spare time because I hated my calendar app and wanted something more useful for how I use it. 
+It has many little quality of life functions such as bringing back uncompleted tasks to the current day until they are completed, 
+removing events that are too far in the past that don't repeat, setting events that repeat every 14 days to repeat every 2 weeks, etc. 
+This is my first time making something like this so it is a little unorganized and asanine in places but I wanted to upload proof that I made it.
+
+
 Setup instructions:
 
 1. Host database of structure:

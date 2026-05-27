@@ -1,3 +1,9 @@
+This is a personal php project I made in my spare time because I hated my calendar app and wanted something more useful for how I use it. 
+It has many little quality of life functions such as bringing back uncompleted tasks to the current day until they are completed, 
+removing events that are too far in the past that don't repeat, setting events that repeat every 14 days to repeat every 2 weeks, etc. 
+This is my first time making something like this so it is a little unorganized and asanine in places but I wanted to upload proof that I made it.
+
+
 Setup instructions:
 
 1. Host database of structure:
@@ -22,3 +28,5 @@ Run the above structure as SQL script (How you do this depends on how your datab
 
 2. In config.php, set all variables according to how you set up your database.
 3. Run php -S localhost:{Another port} and open the address on a browser.
+4. (P.S. There is no security or anything so stay on your private network lol)
+5. (P.S.2. This actually means that you could technically host the app and use it as a household task list or something I think that's cool)

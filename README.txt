@@ -28,3 +28,5 @@ Run the above structure as SQL script (How you do this depends on how your datab
 
 2. In config.php, set all variables according to how you set up your database.
 3. Run php -S localhost:{Another port} and open the address on a browser.
+4. (P.S. There is no security or anything so stay on your private network lol)
+5. (P.S.2. This actually means that you could technically host the app and use it as a household task list or something I think that's cool)

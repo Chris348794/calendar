@@ -6,9 +6,6 @@ body {
         margin: 0;
         font-family: sans-serif;
         background: rgb(94, 94, 94);
-        /* background-image: url('/resources/beige.avif');
-        background-repeat: repeat;
-        background-size: 439px 331px; */
 
     .mainBlock {
         height:100%;
@@ -23,9 +20,6 @@ body {
         align-content:center;
         justify-content:flex-start;
         margin: 2vh;
-        /* background-image: url('/resources/product_bg.avif');
-        background-repeat: repeat;
-        background-size: 1000px 10000px; */
 
         overflow-y:hidden;
         overflow-x: auto;
